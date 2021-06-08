@@ -1,0 +1,13 @@
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.exe.config
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.exe
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.pdb
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\SwinGame Adventure.csprojAssemblyReference.cache
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\SwinGame Adventure.csproj.CoreCompileInputs.cache
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\Iteration1.exe
+F:\Bachelor\1st sem (from August 2019)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\Iteration1.pdb
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.pdb
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\SwinGame Adventure.csprojAssemblyReference.cache
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\Iteration1.pdb
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.dll.config
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\bin\Debug\Iteration1.dll
+F:\Bachelor\1st sem (from August 2019 - sem no 2)\OOP\Code\SwinAdventure\SwinburneAdventure\Iteration1\obj\Debug\Iteration1.dll
